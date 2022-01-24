@@ -26,28 +26,13 @@ Route::get('/{region}', function($region){
 });
 
 Route::group(['prefix' =>'/{region}/{unique}',
-    'where' => ['region' => '([A-Z]{1}[0-9]{1})\b|([A-Z]{2,3})\b', 'unique' => '[A-Z0-9]{4,5}']],function () {
+    'where' => [
+        'region' => '([A-Z]{1}[0-9]{1})\b|([A-Z]{2,3})\b',
+        'unique' => '[A-Z0-9]{4,5}']
+    ]
+    ,function () {
 
-    Route::get('/', function($region, $unique) {
-        $license_plate = \App\Models\LicensePlate::firstOrNew([
-            'region' => $region,
-            'unique_plate' => $unique
-        ]);
-
-        return ([
-            'region' => $license_plate->region(),
-            'voivodeship' => $license_plate->voivodeship(),
-            'license_plate' => $license_plate
-        ]);
-    });
-
-    Route::get('/comments', function($region, $unique) {
-        $license_plate = \App\Models\LicensePlate::firstOrNew([
-            'region' => $region,
-            'unique_plate' => $unique
-        ]);
-
-        return $license_plate->comments()->with('licensePlate:id,region,unique_plate')->with('author:id,name,email')->paginate(5);
-    });
+    Route::get('/', [\App\Http\Controllers\LicensePlateController::class, 'show']);
+    Route::get('/comments', [\App\Http\Controllers\LicensePlateController::class, 'showComments']);
 
 });

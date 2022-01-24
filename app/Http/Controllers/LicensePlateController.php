@@ -21,11 +21,29 @@ class LicensePlateController extends Controller
      * Display the specified resource.
      *
      * @param  \App\Models\LicensePlate  $licensePlate
-     * @return \Illuminate\Http\Response
+     * @return array
      */
-    public function show(LicensePlate $licensePlate)
+    public function show($region, $unique)
     {
-        //
+        $license_plate = \App\Models\LicensePlate::firstOrNew([
+            'region' => $region,
+            'unique_plate' => $unique
+        ]);
+
+        return ([
+            'region' => $license_plate->region(),
+            'voivodeship' => $license_plate->voivodeship(),
+            'license_plate' => $license_plate
+        ]);
+    }
+
+    public function showComments($region, $unique){
+        $license_plate = \App\Models\LicensePlate::firstOrNew([
+            'region' => $region,
+            'unique_plate' => $unique
+        ]);
+
+        return $license_plate->comments()->with('licensePlate:id,region,unique_plate')->with('author:id,name,email')->paginate(5);
     }
 
 }

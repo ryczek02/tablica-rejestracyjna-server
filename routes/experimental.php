@@ -97,30 +97,21 @@ Route::get('/generate/{img}', function($text){
     return response($test)->header('Content-type','image/png');
 })->name('generateImage');
 
-Route::get('/testx', function(){
+Route::get('/generatedPlateTest', function(){
     return \App\Http\Resources\GeneratedPlateTest::collection(\App\Models\Region::all());
 });
 
-Route::get('/test', function(){
+Route::get('/findExampleVoivodeship', function(){
     $voivodeship = \App\Models\Voivodeship::find(13);
 
     return $voivodeship->licensePlates();
 });
 
 
-Route::get('/', function () {
-    return ['Laravel' => app()->version()];
-});
-
-Route::get('/asd', function(){
-    return \App\Models\LicensePlate::find(1001)->comments()->get();
-});
-
-
 Route::get('send-mail', function () {
 
     $details = [
-        'title' => 'Mail from ItSolutionStuff.com',
+        'title' => 'Mail ',
         'body' => 'This is for testing email using smtp'
     ];
 

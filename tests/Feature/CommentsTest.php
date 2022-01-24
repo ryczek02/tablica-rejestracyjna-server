@@ -38,4 +38,9 @@ class CommentsTest extends TestCase
         $response = $this->actingAs($user)->post('/api/comments', ['region' => 'OP', 'unique_plate' => '5ABAB', 'description' => 'An example foo bar testing comment']);
         $response->assertStatus(200);
     }
+
+    public function test_can_index_comments(){
+        $response = $this->get('/api/comments');
+        $response->assertStatus(200);
+    }
 }
