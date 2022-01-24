@@ -1,0 +1,2809 @@
+[
+  {
+    "unique_slug": "BAU",
+    "q": "BAU*",
+    "w": "BAU...",
+    "region": "Powiat augustowski",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BBI",
+    "q": "BBI*",
+    "w": "BBI...",
+    "region": "Powiat bielski",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BGR",
+    "q": "BGR*",
+    "w": "BGR...",
+    "region": "Powiat grajewski",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BHA",
+    "q": "BHA*",
+    "w": "BHA...",
+    "region": "Powiat hajnowski",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BI",
+    "q": "BI[0-9]*",
+    "w": "BI...",
+    "region": "Białystok",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BIA",
+    "q": "BIA*",
+    "w": "BIA...",
+    "region": "Powiat białostocki",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BKL",
+    "q": "BKL*",
+    "w": "BKL...",
+    "region": "Powiat kolneński",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BL",
+    "q": "BL[0-9]*",
+    "w": "BL...",
+    "region": "Łomża",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BLM",
+    "q": "BLM*",
+    "w": "BLM...",
+    "region": "Powiat łomżyński",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BMN",
+    "q": "BMN*",
+    "w": "BMN...",
+    "region": "Powiat moniecki",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BS",
+    "q": "BS[0-9]*",
+    "w": "BS...",
+    "region": "Suwałki",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BSE",
+    "q": "BSE*",
+    "w": "BSE...",
+    "region": "Powiat sejneński",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BSI",
+    "q": "BSI*",
+    "w": "BSI...",
+    "region": "Powiat siemiatycki",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BSK",
+    "q": "BSK*",
+    "w": "BSK...",
+    "region": "Powiat sokólski",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BSU",
+    "q": "BSU*",
+    "w": "BSU...",
+    "region": "Powiat suwalski",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BWM",
+    "q": "BWM*",
+    "w": "BWM...",
+    "region": "Powiat wysokomazowiecki",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "BZA",
+    "q": "BZA*",
+    "w": "BZA...",
+    "region": "Powiat zambrowski",
+    "voivodeship": 10
+  },
+  {
+    "unique_slug": "CAL",
+    "q": "CAL*",
+    "w": "CAL...",
+    "region": "Powiat aleksandrowski",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CB",
+    "q": "CB[0-9]*",
+    "w": "CB...",
+    "region": "Bydgoszcz",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CBR",
+    "q": "CBR*",
+    "w": "CBR...",
+    "region": "Powiat brodnicki",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CBY",
+    "q": "CBY*",
+    "w": "CBY...",
+    "region": "Powiat bydgoski",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CCH",
+    "q": "CCH*",
+    "w": "CCH...",
+    "region": "Powiat chełmiński",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CG",
+    "q": "CG[0-9]*",
+    "w": "CG...",
+    "region": "Grudziądz",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CGD",
+    "q": "CGD*",
+    "w": "CGD...",
+    "region": "Powiat golubsko-dobrzyński",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CGR",
+    "q": "CGR*",
+    "w": "CGR...",
+    "region": "Powiat grudziądzki",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CIN",
+    "q": "CIN*",
+    "w": "CIN...",
+    "region": "Powiat inowrocławski",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CLI",
+    "q": "CLI*",
+    "w": "CLI...",
+    "region": "Powiat lipnowski",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CMG",
+    "q": "CMG*",
+    "w": "CMG...",
+    "region": "Powiat mogileński",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CNA",
+    "q": "CNA*",
+    "w": "CNA...",
+    "region": "Powiat nakielski",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CRA",
+    "q": "CRA*",
+    "w": "CRA...",
+    "region": "Powiat radziejowski",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CRY",
+    "q": "CRY*",
+    "w": "CRY...",
+    "region": "Powiat rypiński",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CSE",
+    "q": "CSE*",
+    "w": "CSE...",
+    "region": "Powiat sępoleński",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CSW",
+    "q": "CSW*",
+    "w": "CSW...",
+    "region": "Powiat świecki",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CT",
+    "q": "CT[0-9]*",
+    "w": "CT...",
+    "region": "Toruń",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CTR",
+    "q": "CTR*",
+    "w": "CTR...",
+    "region": "Powiat toruński",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CTU",
+    "q": "CTU*",
+    "w": "CTU...",
+    "region": "Powiat tucholski",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CW",
+    "q": "CW[0-9]*",
+    "w": "CW...",
+    "region": "Włocławek",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CWA",
+    "q": "CWA*",
+    "w": "CWA...",
+    "region": "Powiat wąbrzeski",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CWL",
+    "q": "CWL*",
+    "w": "CWL...",
+    "region": "Powiat włocławski",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "CZN",
+    "q": "CZN*",
+    "w": "CZN...",
+    "region": "Powiat żniński",
+    "voivodeship": 2
+  },
+  {
+    "unique_slug": "DB",
+    "q": "DB[0-9]*",
+    "w": "DB...",
+    "region": "Powiat wałbrzyski",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DBL",
+    "q": "DBL*",
+    "w": "DBL...",
+    "region": "Powiat bolesławiecki",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DDZ",
+    "q": "DDZ*",
+    "w": "DDZ...",
+    "region": "Powiat dzierżoniowski",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DGL",
+    "q": "DGL*",
+    "w": "DGL...",
+    "region": "Powiat głogowski",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DGR",
+    "q": "DGR*",
+    "w": "DGR...",
+    "region": "Powiat górowski",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DJ",
+    "q": "DJ[0-9]*",
+    "w": "DJ...",
+    "region": "Jelenia Góra",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DJA",
+    "q": "DJA*",
+    "w": "DJA...",
+    "region": "Powiat jaworski",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DJE",
+    "q": "DJE*",
+    "w": "DJE...",
+    "region": "Powiat jeleniogórski",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DKA",
+    "q": "DKA*",
+    "w": "DKA...",
+    "region": "Powiat kamiennogórski",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DKL",
+    "q": "DKL*",
+    "w": "DKL...",
+    "region": "Powiat kłodzki",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DL",
+    "q": "DL[0-9]*",
+    "w": "DL...",
+    "region": "Legnica",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DLB",
+    "q": "DLB*",
+    "w": "DLB...",
+    "region": "Powiat lubański",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DLE",
+    "q": "DLE*",
+    "w": "DLE...",
+    "region": "Powiat legnicki",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DLU",
+    "q": "DLU*",
+    "w": "DLU...",
+    "region": "Powiat lubiński",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DLW",
+    "q": "DLW*",
+    "w": "DLW...",
+    "region": "Powiat lwówecki",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DMI",
+    "q": "DMI*",
+    "w": "DMI...",
+    "region": "Powiat milicki",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DOA",
+    "q": "DOA*",
+    "w": "DOA...",
+    "region": "Powiat oławski",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DOL",
+    "q": "DOL*",
+    "w": "DOL...",
+    "region": "Powiat oleśnicki",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DPL",
+    "q": "DPL*",
+    "w": "DPL...",
+    "region": "Powiat polkowicki",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DSR",
+    "q": "DSR*",
+    "w": "DSR...",
+    "region": "Powiat średzki",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DST",
+    "q": "DST*",
+    "w": "DST...",
+    "region": "Powiat strzeliński",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DSW",
+    "q": "DSW*",
+    "w": "DSW...",
+    "region": "Powiat świdnicki",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DTR",
+    "q": "DTR*",
+    "w": "DTR...",
+    "region": "Powiat trzebnicki",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DW",
+    "q": "DW[0-9]*",
+    "w": "DW...",
+    "region": "Wrocław",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DWL",
+    "q": "DWL*",
+    "w": "DWL...",
+    "region": "Powiat wołowski",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DWR",
+    "q": "DWR*",
+    "w": "DWR...",
+    "region": "Powiat wrocławski",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DZA",
+    "q": "DZA*",
+    "w": "DZA...",
+    "region": "Powiat ząbkowicki",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DZG",
+    "q": "DZG*",
+    "w": "DZG...",
+    "region": "Powiat zgorzelecki",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "DZL",
+    "q": "DZL*",
+    "w": "DZL...",
+    "region": "Powiat złotoryjski",
+    "voivodeship": 1
+  },
+  {
+    "unique_slug": "EBE",
+    "q": "EBE*",
+    "w": "EBE...",
+    "region": "Powiat bełchatowski",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "EBR",
+    "q": "EBR*",
+    "w": "EBR...",
+    "region": "Powiat brzeziński",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "EKU",
+    "q": "EKU*",
+    "w": "EKU...",
+    "region": "Powiat kutnowski",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "EL",
+    "q": "EL[0-9]*",
+    "w": "EL...",
+    "region": "Łódź",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "ELA",
+    "q": "ELA*",
+    "w": "ELA...",
+    "region": "Powiat łaski",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "ELC",
+    "q": "ELC*",
+    "w": "ELC...",
+    "region": "Powiat łowicki",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "ELE",
+    "q": "ELE*",
+    "w": "ELE...",
+    "region": "Powiat łęczycki",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "ELW",
+    "q": "ELW*",
+    "w": "ELW...",
+    "region": "Powiat łódzki wschodni",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "EOP",
+    "q": "EOP*",
+    "w": "EOP...",
+    "region": "Powiat opoczyński",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "EP",
+    "q": "EP[0-9]*",
+    "w": "EP...",
+    "region": "Piotrków Trybunalski",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "EPA",
+    "q": "EPA*",
+    "w": "EPA...",
+    "region": "Powiat pabianicki",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "EPD",
+    "q": "EPD*",
+    "w": "EPD...",
+    "region": "Powiat poddębicki",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "EPI",
+    "q": "EPI*",
+    "w": "EPI...",
+    "region": "Powiat piotrkowski",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "EPJ",
+    "q": "EPJ*",
+    "w": "EPJ...",
+    "region": "Powiat pajęczański",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "ERA",
+    "q": "ERA*",
+    "w": "ERA...",
+    "region": "Powiat radomszczański",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "ERW",
+    "q": "ERW*",
+    "w": "ERW...",
+    "region": "Powiat rawski",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "ES",
+    "q": "ES[0-9]*",
+    "w": "ES...",
+    "region": "Skierniewice",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "ESI",
+    "q": "ESI*",
+    "w": "ESI...",
+    "region": "Powiat sieradzki",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "ESK",
+    "q": "ESK*",
+    "w": "ESK...",
+    "region": "Powiat skierniewicki",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "ETM",
+    "q": "ETM*",
+    "w": "ETM...",
+    "region": "Powiat tomaszowski",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "EWE",
+    "q": "EWE*",
+    "w": "EWE...",
+    "region": "Powiat wieruszowski",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "EWI",
+    "q": "EWI*",
+    "w": "EWI...",
+    "region": "Powiat wieluński",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "EZD",
+    "q": "EZD*",
+    "w": "EZD...",
+    "region": "Powiat zduńskowolski",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "EZG",
+    "q": "EZG*",
+    "w": "EZG...",
+    "region": "Powiat zgierski",
+    "voivodeship": 5
+  },
+  {
+    "unique_slug": "FG",
+    "q": "FG[0-9]*",
+    "w": "FG...",
+    "region": "Gorzów Wielkopolski",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "FGW",
+    "q": "FGW*",
+    "w": "FGW...",
+    "region": "Powiat gorzowski",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "FKR",
+    "q": "FKR*",
+    "w": "FKR...",
+    "region": "Powiat krośnieński",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "FMI",
+    "q": "FMI*",
+    "w": "FMI...",
+    "region": "Powiat międzyrzecki",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "FNW",
+    "q": "FNW*",
+    "w": "FNW...",
+    "region": "Powiat nowosolski",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "FSD",
+    "q": "FSD*",
+    "w": "FSD...",
+    "region": "Powiat strzelecko-drezdenecki",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "FSL",
+    "q": "FSL*",
+    "w": "FSL...",
+    "region": "Powiat słubicki",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "FSU",
+    "q": "FSU*",
+    "w": "FSU...",
+    "region": "Powiat sulęciński",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "FSW",
+    "q": "FSW*",
+    "w": "FSW...",
+    "region": "Powiat świebodziński",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "FWS",
+    "q": "FWS*",
+    "w": "FWS...",
+    "region": "Powiat wschowski",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "FZ",
+    "q": "FZ[0-9]*",
+    "w": "FZ...",
+    "region": "Zielona Góra",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "FZA",
+    "q": "FZA*",
+    "w": "FZA...",
+    "region": "Powiat żarski",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "FZG",
+    "q": "FZG*",
+    "w": "FZG...",
+    "region": "Powiat żagański",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "FZI",
+    "q": "FZI*",
+    "w": "FZI...",
+    "region": "Powiat zielonogórski",
+    "voivodeship": 4
+  },
+  {
+    "unique_slug": "GA",
+    "q": "GA[0-9]*",
+    "w": "GA...",
+    "region": "Gdynia",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GBY",
+    "q": "GBY*",
+    "w": "GBY...",
+    "region": "Powiat bytowski",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GCH",
+    "q": "GCH*",
+    "w": "GCH...",
+    "region": "Powiat chojnicki",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GCZ",
+    "q": "GCZ*",
+    "w": "GCZ...",
+    "region": "Powiat człuchowski",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GD",
+    "q": "GD[0-9]*",
+    "w": "GD...",
+    "region": "Gdańsk",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GDA",
+    "q": "GDA*",
+    "w": "GDA...",
+    "region": "Powiat gdański",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GKA",
+    "q": "GKA*",
+    "w": "GKA...",
+    "region": "Powiat kartuski",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GKS",
+    "q": "GKS*",
+    "w": "GKS...",
+    "region": "Powiat kościerski",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GKW",
+    "q": "GKW*",
+    "w": "GKW...",
+    "region": "Powiat kwidzyński",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GLE",
+    "q": "GLE*",
+    "w": "GLE...",
+    "region": "Powiat lęborski",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GMB",
+    "q": "GMB*",
+    "w": "GMB...",
+    "region": "Powiat malborski",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GND",
+    "q": "GND*",
+    "w": "GND...",
+    "region": "Powiat nowodworski",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GPU",
+    "q": "GPU*",
+    "w": "GPU...",
+    "region": "Powiat pucki",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GS",
+    "q": "GS[0-9]*",
+    "w": "GS...",
+    "region": "Słupsk",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GSL",
+    "q": "GSL*",
+    "w": "GSL...",
+    "region": "Powiat słupski",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GSP",
+    "q": "GSP*",
+    "w": "GSP...",
+    "region": "Sopot",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GST",
+    "q": "GST*",
+    "w": "GST...",
+    "region": "Powiat starogardzki",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GSZ",
+    "q": "GSZ*",
+    "w": "GSZ...",
+    "region": "Powiat sztumski",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GTC",
+    "q": "GTC*",
+    "w": "GTC...",
+    "region": "Powiat tczewski",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "GWE",
+    "q": "GWE*",
+    "w": "GWE...",
+    "region": "Powiat wejherowski",
+    "voivodeship": 11
+  },
+  {
+    "unique_slug": "KBC",
+    "q": "KBC*",
+    "w": "KBC...",
+    "region": "Powiat bocheński",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KBR",
+    "q": "KBR*",
+    "w": "KBR...",
+    "region": "Powiat brzeski",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KCH",
+    "q": "KCH*",
+    "w": "KCH...",
+    "region": "Powiat chrzanowski",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KDA",
+    "q": "KDA*",
+    "w": "KDA...",
+    "region": "Powiat dąbrowski",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KGR",
+    "q": "KGR*",
+    "w": "KGR...",
+    "region": "Powiat gorlicki",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KLI",
+    "q": "KLI*",
+    "w": "KLI...",
+    "region": "Powiat limanowski",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KMI",
+    "q": "KMI*",
+    "w": "KMI...",
+    "region": "Powiat miechowski",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KMY",
+    "q": "KMY*",
+    "w": "KMY...",
+    "region": "Powiat myślenicki",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KN",
+    "q": "KN[0-9]*",
+    "w": "KN...",
+    "region": "Nowy Sącz",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KNS",
+    "q": "KNS*",
+    "w": "KNS...",
+    "region": "Powiat nowosądecki",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KNT",
+    "q": "KNT*",
+    "w": "KNT...",
+    "region": "Powiat nowotarski",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KOL",
+    "q": "KOL*",
+    "w": "KOL...",
+    "region": "Powiat olkuski",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KOS",
+    "q": "KOS*",
+    "w": "KOS...",
+    "region": "Powiat oświęcimski",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KPR",
+    "q": "KPR*",
+    "w": "KPR...",
+    "region": "Powiat proszowicki",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KR",
+    "q": "KR[0-9]*",
+    "w": "KR...",
+    "region": "Kraków",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KRA",
+    "q": "KRA*",
+    "w": "KRA...",
+    "region": "Powiat krakowski",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KSU",
+    "q": "KSU*",
+    "w": "KSU...",
+    "region": "Powiat suski",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KT",
+    "q": "KT[0-9]*",
+    "w": "KT...",
+    "region": "Tarnów",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KTA",
+    "q": "KTA*",
+    "w": "KTA...",
+    "region": "Powiat tarnowski",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KTT",
+    "q": "KTT*",
+    "w": "KTT...",
+    "region": "Powiat tatrzański",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KWA",
+    "q": "KWA*",
+    "w": "KWA...",
+    "region": "Powiat wadowicki",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "KWI",
+    "q": "KWI*",
+    "w": "KWI...",
+    "region": "Powiat wielicki",
+    "voivodeship": 6
+  },
+  {
+    "unique_slug": "LB",
+    "q": "LB[0-9]*",
+    "w": "LB...",
+    "region": "Biała Podlaska",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LBI",
+    "q": "LBI*",
+    "w": "LBI...",
+    "region": "Powiat bialski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LBL",
+    "q": "LBL*",
+    "w": "LBL...",
+    "region": "Powiat biłgorajski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LC",
+    "q": "LC[0-9]*",
+    "w": "LC...",
+    "region": "Chełm",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LCH",
+    "q": "LCH*",
+    "w": "LCH...",
+    "region": "Powiat chełmski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LHR",
+    "q": "LHR*",
+    "w": "LHR...",
+    "region": "Powiat hrubieszowski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LJA",
+    "q": "LJA*",
+    "w": "LJA...",
+    "region": "Powiat janowski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LKR",
+    "q": "LKR*",
+    "w": "LKR...",
+    "region": "Powiat kraśnicki",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LKS",
+    "q": "LKS*",
+    "w": "LKS...",
+    "region": "Powiat krasnostawski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LLB",
+    "q": "LLB*",
+    "w": "LLB...",
+    "region": "Powiat lubartowski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LLE",
+    "q": "LLE*",
+    "w": "LLE...",
+    "region": "Powiat łęczyński",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LLU",
+    "q": "LLU*",
+    "w": "LLU...",
+    "region": "Powiat łukowski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LOP",
+    "q": "LOP*",
+    "w": "LOP...",
+    "region": "Powiat opolski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LPA",
+    "q": "LPA*",
+    "w": "LPA...",
+    "region": "Powiat parczewski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LPU",
+    "q": "LPU*",
+    "w": "LPU...",
+    "region": "Powiat puławski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LRA",
+    "q": "LRA*",
+    "w": "LRA...",
+    "region": "Powiat radzyński",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LRY",
+    "q": "LRY*",
+    "w": "LRY...",
+    "region": "Powiat rycki",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LSW",
+    "q": "LSW*",
+    "w": "LSW...",
+    "region": "Powiat świdnicki",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LTM",
+    "q": "LTM*",
+    "w": "LTM...",
+    "region": "Powiat tomaszowski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LU",
+    "q": "LU[0-9]*",
+    "w": "LU...",
+    "region": "Lublin",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LUB",
+    "q": "LUB*",
+    "w": "LUB...",
+    "region": "Powiat lubelski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LWL",
+    "q": "LWL*",
+    "w": "LWL...",
+    "region": "Powiat włodawski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LZ",
+    "q": "LZ[0-9]*",
+    "w": "LZ...",
+    "region": "Zamość",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "LZA",
+    "q": "LZA*",
+    "w": "LZA...",
+    "region": "Powiat zamojski",
+    "voivodeship": 3
+  },
+  {
+    "unique_slug": "NBA",
+    "q": "NBA*",
+    "w": "NBA...",
+    "region": "Powiat bartoszycki",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NBR",
+    "q": "NBR*",
+    "w": "NBR...",
+    "region": "Powiat braniewski",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NDZ",
+    "q": "NDZ*",
+    "w": "NDZ...",
+    "region": "Powiat działdowski",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NE",
+    "q": "NE[0-9]*",
+    "w": "NE...",
+    "region": "Elbląg",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NEB",
+    "q": "NEB*",
+    "w": "NEB...",
+    "region": "Powiat elbląski",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NEL",
+    "q": "NEL*",
+    "w": "NEL...",
+    "region": "Powiat ełcki",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NGI",
+    "q": "NGI*",
+    "w": "NGI...",
+    "region": "Powiat giżycki",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NGO",
+    "q": "NGO*",
+    "w": "NGO...",
+    "region": "Powiat gołdapski",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NIL",
+    "q": "NIL*",
+    "w": "NIL...",
+    "region": "Powiat iławski",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NKE",
+    "q": "NKE*",
+    "w": "NKE...",
+    "region": "Powiat kętrzyński",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NLI",
+    "q": "NLI*",
+    "w": "NLI...",
+    "region": "Powiat lidzbarski",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NMR",
+    "q": "NMR*",
+    "w": "NMR...",
+    "region": "Powiat mrągowski",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NNI",
+    "q": "NNI*",
+    "w": "NNI...",
+    "region": "Powiat nidzicki",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NNM",
+    "q": "NNM*",
+    "w": "NNM...",
+    "region": "Powiat nowomiejski",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NO",
+    "q": "NO[0-9]*",
+    "w": "NO...",
+    "region": "Olsztyn",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NOE",
+    "q": "NOE*",
+    "w": "NOE...",
+    "region": "Powiat olecki",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NOG",
+    "q": "NOG*",
+    "w": "NOG...",
+    "region": "Powiat olecko-gołdapski",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NOL",
+    "q": "NOL*",
+    "w": "NOL...",
+    "region": "Powiat olsztyński",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NOS",
+    "q": "NOS*",
+    "w": "NOS...",
+    "region": "Powiat ostródzki",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NPI",
+    "q": "NPI*",
+    "w": "NPI...",
+    "region": "Powiat piski",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NSZ",
+    "q": "NSZ*",
+    "w": "NSZ...",
+    "region": "Powiat szczycieński",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "NWE",
+    "q": "NWE*",
+    "w": "NWE...",
+    "region": "Powiat węgorzewski",
+    "voivodeship": 14
+  },
+  {
+    "unique_slug": "OB",
+    "q": "OB[0-9]*",
+    "w": "OB...",
+    "region": "Powiat brzeski",
+    "voivodeship": 8
+  },
+  {
+    "unique_slug": "OGL",
+    "q": "OGL*",
+    "w": "OGL...",
+    "region": "Powiat głubczycki",
+    "voivodeship": 8
+  },
+  {
+    "unique_slug": "OK",
+    "q": "OK[0-9]*",
+    "w": "OK...",
+    "region": "Powiat kędzierzyńsko-kozielski",
+    "voivodeship": 8
+  },
+  {
+    "unique_slug": "OKL",
+    "q": "OKL*",
+    "w": "OKL...",
+    "region": "Powiat kluczborski",
+    "voivodeship": 8
+  },
+  {
+    "unique_slug": "OKR",
+    "q": "OKR*",
+    "w": "OKR...",
+    "region": "Powiat krapkowicki",
+    "voivodeship": 8
+  },
+  {
+    "unique_slug": "ONA",
+    "q": "ONA*",
+    "w": "ONA...",
+    "region": "Powiat namysłowski",
+    "voivodeship": 8
+  },
+  {
+    "unique_slug": "ONY",
+    "q": "ONY*",
+    "w": "ONY...",
+    "region": "Powiat nyski",
+    "voivodeship": 8
+  },
+  {
+    "unique_slug": "OOL",
+    "q": "OOL*",
+    "w": "OOL...",
+    "region": "Powiat oleski",
+    "voivodeship": 8
+  },
+  {
+    "unique_slug": "OP",
+    "q": "OP[0-9]*",
+    "w": "OP...",
+    "region": "Opole",
+    "voivodeship": 8
+  },
+  {
+    "unique_slug": "OPO",
+    "q": "OPO*",
+    "w": "OPO...",
+    "region": "Powiat opolski",
+    "voivodeship": 8
+  },
+  {
+    "unique_slug": "OPR",
+    "q": "OPR*",
+    "w": "OPR...",
+    "region": "Powiat prudnicki",
+    "voivodeship": 8
+  },
+  {
+    "unique_slug": "OST",
+    "q": "OST*",
+    "w": "OST...",
+    "region": "Powiat strzelecki",
+    "voivodeship": 8
+  },
+  {
+    "unique_slug": "PCH",
+    "q": "PCH*",
+    "w": "PCH...",
+    "region": "Powiat chodzieski",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PCT",
+    "q": "PCT*",
+    "w": "PCT...",
+    "region": "Powiat czarnkowsko-trzcianecki",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PGN",
+    "q": "PGN*",
+    "w": "PGN...",
+    "region": "Powiat gnieźnieński",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PGO",
+    "q": "PGO*",
+    "w": "PGO...",
+    "region": "Powiat grodziski",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PGS",
+    "q": "PGS*",
+    "w": "PGS...",
+    "region": "Powiat gostyński",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PJA",
+    "q": "PJA*",
+    "w": "PJA...",
+    "region": "Powiat jarociński",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PK",
+    "q": "PK[0-9]*",
+    "w": "PK...",
+    "region": "Kalisz",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PKA",
+    "q": "PKA*",
+    "w": "PKA...",
+    "region": "Powiat kaliski",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PKE",
+    "q": "PKE*",
+    "w": "PKE...",
+    "region": "Powiat kępiński",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PKL",
+    "q": "PKL*",
+    "w": "PKL...",
+    "region": "Powiat kolski",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PKN",
+    "q": "PKN*",
+    "w": "PKN...",
+    "region": "Powiat koniński",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PKO",
+    "q": "PKO*",
+    "w": "PKO...",
+    "region": "Konin",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PKR",
+    "q": "PKR*",
+    "w": "PKR...",
+    "region": "Powiat krotoszyński",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PKS",
+    "q": "PKS*",
+    "w": "PKS...",
+    "region": "Powiat kościański",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PL",
+    "q": "PL[0-9]*",
+    "w": "PL...",
+    "region": "Leszno",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PLE",
+    "q": "PLE*",
+    "w": "PLE...",
+    "region": "Powiat leszczyński",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PMI",
+    "q": "PMI*",
+    "w": "PMI...",
+    "region": "Powiat międzychodzki",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PN",
+    "q": "PN[0-9]*",
+    "w": "PN...",
+    "region": "Konin",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PNT",
+    "q": "PNT*",
+    "w": "PNT...",
+    "region": "Powiat nowotomyski",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PO",
+    "q": "PO[0-9]*",
+    "w": "PO...",
+    "region": "Poznań",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "POB",
+    "q": "POB*",
+    "w": "POB...",
+    "region": "Powiat obornicki",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "POS",
+    "q": "POS*",
+    "w": "POS...",
+    "region": "Powiat ostrowski",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "POT",
+    "q": "POT*",
+    "w": "POT...",
+    "region": "Powiat ostrzeszowski",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "POZ",
+    "q": "POZ*",
+    "w": "POZ...",
+    "region": "Powiat poznański",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PP",
+    "q": "PP[0-9]*",
+    "w": "PP...",
+    "region": "Powiat pilski",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PPL",
+    "q": "PPL*",
+    "w": "PPL...",
+    "region": "Powiat pleszewski",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PRA",
+    "q": "PRA*",
+    "w": "PRA...",
+    "region": "Powiat rawicki",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PSE",
+    "q": "PSE*",
+    "w": "PSE...",
+    "region": "Powiat śremski",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PSL",
+    "q": "PSL*",
+    "w": "PSL...",
+    "region": "Powiat słupecki",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PSR",
+    "q": "PSR*",
+    "w": "PSR...",
+    "region": "Powiat średzki",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PSZ",
+    "q": "PSZ*",
+    "w": "PSZ...",
+    "region": "Powiat szamotulski",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PTU",
+    "q": "PTU*",
+    "w": "PTU...",
+    "region": "Powiat turecki",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PWA",
+    "q": "PWA*",
+    "w": "PWA...",
+    "region": "Powiat wągrowiecki",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PWL",
+    "q": "PWL*",
+    "w": "PWL...",
+    "region": "Powiat wolsztyński",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PWR",
+    "q": "PWR*",
+    "w": "PWR...",
+    "region": "Powiat wrzesiński",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PZ",
+    "q": "PZ[0-9]*",
+    "w": "PZ...",
+    "region": "Powiat poznański",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "PZL",
+    "q": "PZL*",
+    "w": "PZL...",
+    "region": "Powiat złotowski",
+    "voivodeship": 15
+  },
+  {
+    "unique_slug": "RBI",
+    "q": "RBI*",
+    "w": "RBI...",
+    "region": "Powiat bieszczadzki",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RBR",
+    "q": "RBR*",
+    "w": "RBR...",
+    "region": "Powiat brzozowski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RDE",
+    "q": "RDE*",
+    "w": "RDE...",
+    "region": "Powiat dębicki",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RJA",
+    "q": "RJA*",
+    "w": "RJA...",
+    "region": "Powiat jarosławski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RJS",
+    "q": "RJS*",
+    "w": "RJS...",
+    "region": "Powiat jasielski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RK",
+    "q": "RK[0-9]*",
+    "w": "RK...",
+    "region": "Krosno",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RKL",
+    "q": "RKL*",
+    "w": "RKL...",
+    "region": "Powiat kolbuszowski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RKR",
+    "q": "RKR*",
+    "w": "RKR...",
+    "region": "Powiat krośnieński",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RLA",
+    "q": "RLA*",
+    "w": "RLA...",
+    "region": "Powiat łańcucki",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RLE",
+    "q": "RLE*",
+    "w": "RLE...",
+    "region": "Powiat leżajski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RLS",
+    "q": "RLS*",
+    "w": "RLS...",
+    "region": "Powiat leski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RLU",
+    "q": "RLU*",
+    "w": "RLU...",
+    "region": "Powiat lubaczowski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RMI",
+    "q": "RMI*",
+    "w": "RMI...",
+    "region": "Powiat mielecki",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RNI",
+    "q": "RNI*",
+    "w": "RNI...",
+    "region": "Powiat niżański",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RP",
+    "q": "RP[0-9]*",
+    "w": "RP...",
+    "region": "Przemyśl",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RPR",
+    "q": "RPR*",
+    "w": "RPR...",
+    "region": "Powiat przemyski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RPZ",
+    "q": "RPZ*",
+    "w": "RPZ...",
+    "region": "Powiat przeworski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RRS",
+    "q": "RRS*",
+    "w": "RRS...",
+    "region": "Powiat ropczycko-sędziszowski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RSA",
+    "q": "RSA*",
+    "w": "RSA...",
+    "region": "Powiat sanocki",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RSR",
+    "q": "RSR*",
+    "w": "RSR...",
+    "region": "Powiat strzyżowski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RST",
+    "q": "RST*",
+    "w": "RST...",
+    "region": "Powiat stalowowolski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RT",
+    "q": "RT[0-9]*",
+    "w": "RT...",
+    "region": "Tarnobrzeg",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RTA",
+    "q": "RTA*",
+    "w": "RTA...",
+    "region": "Powiat tarnobrzeski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RZ",
+    "q": "RZ[0-9]*",
+    "w": "RZ...",
+    "region": "Rzeszów",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "RZE",
+    "q": "RZE*",
+    "w": "RZE...",
+    "region": "Powiat rzeszowski",
+    "voivodeship": 9
+  },
+  {
+    "unique_slug": "SB",
+    "q": "SB[0-9]*",
+    "w": "SB...",
+    "region": "Bielsko-Biała",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SBE",
+    "q": "SBE*",
+    "w": "SBE...",
+    "region": "Powiat będziński",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SBI",
+    "q": "SBI*",
+    "w": "SBI...",
+    "region": "Powiat bielski",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SBL",
+    "q": "SBL*",
+    "w": "SBL...",
+    "region": "Powiat bieruńsko-lędziński",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SC",
+    "q": "SC[0-9]*",
+    "w": "SC...",
+    "region": "Częstochowa",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SCI",
+    "q": "SCI*",
+    "w": "SCI...",
+    "region": "Powiat cieszyński",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SCZ",
+    "q": "SCZ*",
+    "w": "SCZ...",
+    "region": "Powiat częstochowski",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SD",
+    "q": "SD[0-9]*",
+    "w": "SD...",
+    "region": "Dąbrowa Górnicza",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SG",
+    "q": "SG[0-9]*",
+    "w": "SG...",
+    "region": "Gliwice",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SGL",
+    "q": "SGL*",
+    "w": "SGL...",
+    "region": "Powiat gliwicki",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SH",
+    "q": "SH[0-9]*",
+    "w": "SH...",
+    "region": "Chorzów",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SI",
+    "q": "SI[0-9]*",
+    "w": "SI...",
+    "region": "Siemianowice Śląskie",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SJ",
+    "q": "SJ[0-9]*",
+    "w": "SJ...",
+    "region": "Jaworzno",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SJZ",
+    "q": "SJZ*",
+    "w": "SJZ...",
+    "region": "Jastrzębie-Zdrój",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SK",
+    "q": "SK[0-9]*",
+    "w": "SK...",
+    "region": "Katowice",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SKL",
+    "q": "SKL*",
+    "w": "SKL...",
+    "region": "Powiat kłobucki",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SL",
+    "q": "SL[0-9]*",
+    "w": "SL...",
+    "region": "Ruda Śląska",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SLU",
+    "q": "SLU*",
+    "w": "SLU...",
+    "region": "Powiat lubliniecki",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SM",
+    "q": "SM[0-9]*",
+    "w": "SM...",
+    "region": "Mysłowice",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SMI",
+    "q": "SMI*",
+    "w": "SMI...",
+    "region": "Powiat mikołowski",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SMY",
+    "q": "SMY*",
+    "w": "SMY...",
+    "region": "Powiat myszkowski",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SO",
+    "q": "SO[0-9]*",
+    "w": "SO...",
+    "region": "Sosnowiec",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SPI",
+    "q": "SPI*",
+    "w": "SPI...",
+    "region": "Piekary Śląskie",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SPS",
+    "q": "SPS*",
+    "w": "SPS...",
+    "region": "Powiat pszczyński",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SR",
+    "q": "SR[0-9]*",
+    "w": "SR...",
+    "region": "Rybnik",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SRB",
+    "q": "SRB*",
+    "w": "SRB...",
+    "region": "Powiat rybnicki",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SRC",
+    "q": "SRC*",
+    "w": "SRC...",
+    "region": "Powiat raciborski",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SRS",
+    "q": "SRS*",
+    "w": "SRS...",
+    "region": "Ruda Śląska",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "ST",
+    "q": "ST[0-9]*",
+    "w": "ST...",
+    "region": "Tychy",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "STA",
+    "q": "STA*",
+    "w": "STA...",
+    "region": "Powiat tarnogórski",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "STY",
+    "q": "STY*",
+    "w": "STY...",
+    "region": "Powiat powiat tyski",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SW",
+    "q": "SW[0-9]*",
+    "w": "SW...",
+    "region": "Świętochłowice",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SWD",
+    "q": "SWD*",
+    "w": "SWD...",
+    "region": "Powiat wodzisławski",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SY",
+    "q": "SY[0-9]*",
+    "w": "SY...",
+    "region": "Bytom",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SZ",
+    "q": "SZ[0-9]*",
+    "w": "SZ...",
+    "region": "Zabrze",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SZA",
+    "q": "SZA*",
+    "w": "SZA...",
+    "region": "Powiat zawierciański",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SZO",
+    "q": "SZO*",
+    "w": "SZO...",
+    "region": "Żory",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "SZY",
+    "q": "SZY*",
+    "w": "SZY...",
+    "region": "Powiat żywiecki",
+    "voivodeship": 12
+  },
+  {
+    "unique_slug": "TBU",
+    "q": "TBU*",
+    "w": "TBU...",
+    "region": "Powiat buski",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "TJE",
+    "q": "TJE*",
+    "w": "TJE...",
+    "region": "Powiat jędrzejowski",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "TK",
+    "q": "TK[0-9]*",
+    "w": "TK...",
+    "region": "Kielce",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "TKA",
+    "q": "TKA*",
+    "w": "TKA...",
+    "region": "Powiat kazimierski",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "TKI",
+    "q": "TKI*",
+    "w": "TKI...",
+    "region": "Powiat kielecki",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "TKN",
+    "q": "TKN*",
+    "w": "TKN...",
+    "region": "Powiat konecki",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "TLW",
+    "q": "TLW*",
+    "w": "TLW...",
+    "region": "Powiat włoszczowski",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "TOP",
+    "q": "TOP*",
+    "w": "TOP...",
+    "region": "Powiat opatowski",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "TOS",
+    "q": "TOS*",
+    "w": "TOS...",
+    "region": "Powiat ostrowiecki",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "TPI",
+    "q": "TPI*",
+    "w": "TPI...",
+    "region": "Powiat pińczowski",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "TSA",
+    "q": "TSA*",
+    "w": "TSA...",
+    "region": "Powiat sandomierski",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "TSK",
+    "q": "TSK*",
+    "w": "TSK...",
+    "region": "Powiat skarżyski",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "TST",
+    "q": "TST*",
+    "w": "TST...",
+    "region": "Powiat starachowicki",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "TSZ",
+    "q": "TSZ*",
+    "w": "TSZ...",
+    "region": "Powiat staszowski",
+    "voivodeship": 13
+  },
+  {
+    "unique_slug": "WA",
+    "q": "WA[0-9]*",
+    "w": "WA...",
+    "region": "Warszawa Białołęka",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WB",
+    "q": "WB[0-9]*",
+    "w": "WB...",
+    "region": "Warszawa Bemowo",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WBR",
+    "q": "WBR*",
+    "w": "WBR...",
+    "region": "Powiat białobrzeski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WCI",
+    "q": "WCI*",
+    "w": "WCI...",
+    "region": "Powiat ciechanowski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WD",
+    "q": "WD[0-9]*",
+    "w": "WD...",
+    "region": "Warszawa Bielany",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WE",
+    "q": "WE[0-9]*",
+    "w": "WE...",
+    "region": "Warszawa Mokotów",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WF",
+    "q": "WF[0-9]*",
+    "w": "WF...",
+    "region": "Warszawa Praga Południe",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WG",
+    "q": "WG[0-9]*",
+    "w": "WG...",
+    "region": "Powiat garwoliński",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WGM",
+    "q": "WGM*",
+    "w": "WGM...",
+    "region": "Powiat grodziski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WGR",
+    "q": "WGR*",
+    "w": "WGR...",
+    "region": "Powiat grójecki",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WGS",
+    "q": "WGS*",
+    "w": "WGS...",
+    "region": "Powiat gostyniński",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WH",
+    "q": "WH[0-9]*",
+    "w": "WH...",
+    "region": "Warszawa Praga Północ",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WI",
+    "q": "WI[0-9]*",
+    "w": "WI...",
+    "region": "Warszawa Śródmieście",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WJ",
+    "q": "WJ[0-9]*",
+    "w": "WJ...",
+    "region": "Warszawa Targówek",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WK",
+    "q": "WK[0-9]*",
+    "w": "WK...",
+    "region": "Warszawa Ursus",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WKZ",
+    "q": "WKZ*",
+    "w": "WKZ...",
+    "region": "Powiat kozienicki",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WL",
+    "q": "WL[0-9]*",
+    "w": "WL...",
+    "region": "Powiat legionowski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WLI",
+    "q": "WLI*",
+    "w": "WLI...",
+    "region": "Powiat lipski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WLS",
+    "q": "WLS*",
+    "w": "WLS...",
+    "region": "Powiat łosicki",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WM",
+    "q": "WM[0-9]*",
+    "w": "WM...",
+    "region": "Powiat miński",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WMA",
+    "q": "WMA*",
+    "w": "WMA...",
+    "region": "Powiat makowski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WML",
+    "q": "WML*",
+    "w": "WML...",
+    "region": "Powiat mławski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WN",
+    "q": "WN[0-9]*",
+    "w": "WN...",
+    "region": "Warszawa Ursynów",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WND",
+    "q": "WND*",
+    "w": "WND...",
+    "region": "Powiat nowodworski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WO",
+    "q": "WO[0-9]*",
+    "w": "WO...",
+    "region": "Ostrołęka",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WOR",
+    "q": "WOR*",
+    "w": "WOR...",
+    "region": "Powiat ostrowski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WOS",
+    "q": "WOS*",
+    "w": "WOS...",
+    "region": "Powiat ostrołęcki",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WOT",
+    "q": "WOT*",
+    "w": "WOT...",
+    "region": "Powiat otwocki",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WP",
+    "q": "WP[0-9]*",
+    "w": "WP...",
+    "region": "Płock",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WPI",
+    "q": "WPI*",
+    "w": "WPI...",
+    "region": "Powiat piaseczyński",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WPL",
+    "q": "WPL*",
+    "w": "WPL...",
+    "region": "Powiat płocki",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WPN",
+    "q": "WPN*",
+    "w": "WPN...",
+    "region": "Powiat płoński",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WPR",
+    "q": "WPR*",
+    "w": "WPR...",
+    "region": "Powiat pruszkowski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WPU",
+    "q": "WPU*",
+    "w": "WPU...",
+    "region": "Powiat pułtuski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WPY",
+    "q": "WPY*",
+    "w": "WPY...",
+    "region": "Powiat przysuski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WPZ",
+    "q": "WPZ*",
+    "w": "WPZ...",
+    "region": "Powiat przasnyski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WR",
+    "q": "WR[0-9]*",
+    "w": "WR...",
+    "region": "Radom",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WRA",
+    "q": "WRA*",
+    "w": "WRA...",
+    "region": "Powiat radomski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WS",
+    "q": "WS[0-9]*",
+    "w": "WS...",
+    "region": "Siedlce",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WSC",
+    "q": "WSC*",
+    "w": "WSC...",
+    "region": "Powiat sochaczewski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WSE",
+    "q": "WSE*",
+    "w": "WSE...",
+    "region": "Powiat sierpecki",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WSI",
+    "q": "WSI*",
+    "w": "WSI...",
+    "region": "Powiat siedlecki",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WSK",
+    "q": "WSK*",
+    "w": "WSK...",
+    "region": "Powiat sokołowski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WSZ",
+    "q": "WSZ*",
+    "w": "WSZ...",
+    "region": "Powiat szydłowiecki",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WT",
+    "q": "WT[0-9]*",
+    "w": "WT...",
+    "region": "Warszawa Wawer",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WU",
+    "q": "WU[0-9]*",
+    "w": "WU...",
+    "region": "Warszawa Ochota",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WW",
+    "q": "WW[0-9]*[FGHJW]",
+    "w": "WW...(FGHJW",
+    "region": "Warszawa Wilanów",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WW",
+    "q": "WW[0-9]*[ACEXY]",
+    "w": "WW...(ACEXY",
+    "region": "Warszawa Rembertów",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WW",
+    "q": "WW[0-9]*[KLMNVRS]",
+    "w": "WW...(KLMNVRS",
+    "region": "Warszawa Włochy",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WWE",
+    "q": "WWE*",
+    "w": "WWE...",
+    "region": "Powiat węgrowski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WWL",
+    "q": "WWL*",
+    "w": "WWL...",
+    "region": "Powiat wołomiński",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WWY",
+    "q": "WWY*",
+    "w": "WWY...",
+    "region": "Powiat wyszkowski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WX",
+    "q": "WX[0-9]*",
+    "w": "WX...",
+    "region": "Warszawa Żoliborz",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WX",
+    "q": "WX[0-9]*Y",
+    "w": "WX...Y",
+    "region": "Warszawa Wesoła",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WY",
+    "q": "WY[0-9]*",
+    "w": "WY...",
+    "region": "Warszawa Wola",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WZ",
+    "q": "WZ[0-9]*",
+    "w": "WZ...",
+    "region": "Powiat warszawski zachodni",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WZU",
+    "q": "WZU*",
+    "w": "WZU...",
+    "region": "Powiat żuromiński",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WZW",
+    "q": "WZW*",
+    "w": "WZW...",
+    "region": "Powiat zwoleński",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "WZY",
+    "q": "WZY*",
+    "w": "WZY...",
+    "region": "Powiat żyrardowski",
+    "voivodeship": 7
+  },
+  {
+    "unique_slug": "ZBI",
+    "q": "ZBI*",
+    "w": "ZBI...",
+    "region": "Powiat białogardzki",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZCH",
+    "q": "ZCH*",
+    "w": "ZCH...",
+    "region": "Powiat choszczeński",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZDR",
+    "q": "ZDR*",
+    "w": "ZDR...",
+    "region": "Powiat drawski",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZGL",
+    "q": "ZGL*",
+    "w": "ZGL...",
+    "region": "Powiat goleniowski",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZGR",
+    "q": "ZGR*",
+    "w": "ZGR...",
+    "region": "Powiat gryfiński",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZGY",
+    "q": "ZGY*",
+    "w": "ZGY...",
+    "region": "Powiat gryficki",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZK",
+    "q": "ZK[0-9]*",
+    "w": "ZK...",
+    "region": "Koszalin",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZKA",
+    "q": "ZKA*",
+    "w": "ZKA...",
+    "region": "Powiat kamieński",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZKL",
+    "q": "ZKL*",
+    "w": "ZKL...",
+    "region": "Powiat kołobrzeski",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZKO",
+    "q": "ZKO*",
+    "w": "ZKO...",
+    "region": "Powiat koszaliński",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZLO",
+    "q": "ZLO*",
+    "w": "ZLO...",
+    "region": "Powiat łobeski",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZMY",
+    "q": "ZMY*",
+    "w": "ZMY...",
+    "region": "Powiat myśliborski",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZPL",
+    "q": "ZPL*",
+    "w": "ZPL...",
+    "region": "Powiat policki",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZPY",
+    "q": "ZPY*",
+    "w": "ZPY...",
+    "region": "Powiat pyrzycki",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZS",
+    "q": "ZS[0-9]*",
+    "w": "ZS...",
+    "region": "Szczecin",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZSD",
+    "q": "ZSD*",
+    "w": "ZSD...",
+    "region": "Powiat świdwiński",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZSL",
+    "q": "ZSL*",
+    "w": "ZSL...",
+    "region": "Powiat sławieński",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZST",
+    "q": "ZST*",
+    "w": "ZST...",
+    "region": "Powiat stargardzki",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZSW",
+    "q": "ZSW*",
+    "w": "ZSW...",
+    "region": "Świnoujście",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZSZ",
+    "q": "ZSZ*",
+    "w": "ZSZ...",
+    "region": "Powiat szczecinecki",
+    "voivodeship": 16
+  },
+  {
+    "unique_slug": "ZWA",
+    "q": "ZWA*",
+    "w": "ZWA...",
+    "region": "Powiat wałecki",
+    "voivodeship": 16
+  }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "dolnośląskie",
+        "symbol": "D"
+    },
+    {
+        "id": 2,
+        "name": "kujawsko-pomorskie",
+        "symbol": "C"
+    },
+    {
+        "id": 3,
+        "name": "lubelskie",
+        "symbol": "L"
+    },
+    {
+        "id": 4,
+        "name": "lubuskie",
+        "symbol": "F"
+    },
+    {
+        "id": 5,
+        "name": "łódzkie",
+        "symbol": "E"
+    },
+    {
+        "id": 6,
+        "name": "małopolskie",
+        "symbol": "K"
+    },
+    {
+        "id": 7,
+        "name": "mazowieckie",
+        "symbol": "W"
+    },
+    {
+        "id": 8,
+        "name": "opolskie",
+        "symbol": "O"
+    },
+    {
+        "id": 9,
+        "name": "podkarpackie",
+        "symbol": "R"
+    },
+    {
+        "id": 10,
+        "name": "podlaskie",
+        "symbol": "B"
+    },
+    {
+        "id": 11,
+        "name": "pomorskie",
+        "symbol": "G"
+    },
+    {
+        "id": 12,
+        "name": "śląskie",
+        "symbol": "S"
+    },
+    {
+        "id": 13,
+        "name": "świętokrzyskie",
+        "symbol": "T"
+    },
+    {
+        "id": 14,
+        "name": "warmińsko-mazurskie",
+        "symbol": "N"
+    },
+    {
+        "id": 15,
+        "name": "wielkopolskie",
+        "symbol": "P"
+
+    },
+    {
+        "id": 16,
+        "name": "zachodniopomorskie",
+        "symbol": "Z"
+
+    }
+]
